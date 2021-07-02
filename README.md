@@ -15,15 +15,15 @@ In this repository you will find the all dataset I collected and all the code I 
 
 # Usage
 
-Filename	                        Usage
+Filename	       |              Usage
 ---------------------------------------------------------------
-nyc_trees.ipynb	  Jupyer Notebook file containing Python code.
-                  Used to clean the data.
+nyc_trees.ipynb	 | Jupyer Notebook file containing Python code.
+                 | Used to clean the data.
 ---------------------------------------------------------------
-data_100000.csv	  File containing data of NYC trees , in NYC.
-                  Contains tree_id, block_id, tree_diameter, etc…"
+data_100000.csv	 | File containing data of NYC trees , in NYC.
+                 | Contains tree_id, block_id, tree_diameter, etc…"
 ---------------------------------------------------------------
-nyc_trees.csv	    File containing clean data
+nyc_trees.csv	   | File containing clean data
 ---------------------------------------------------------------
 
 
